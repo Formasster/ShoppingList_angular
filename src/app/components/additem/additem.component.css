@@ -1,0 +1,28 @@
+form{
+  margin: 0 auto;
+  width: 300px;
+  display: block;
+}
+
+form div{
+  padding: 5px 0;
+}
+
+form label{
+  display: block;
+  padding: 10px 0;
+}
+
+form input{
+  padding: 5px;
+  width: 100%;
+}
+
+form input[type="submit"]{
+  background: rgb(23, 55, 160);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  margin-top: 10px;
+  width: 25%;
+}
